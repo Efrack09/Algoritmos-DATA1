@@ -8,7 +8,7 @@ int main(int argc, char**argv){
 	int nume = atoi(argv[2]);
 	for (i = num; i < nume; i++)
 	{
-		printf("%dwdawawdwadwanidniwiwwaiowiowdiowaniowaiwaiwaniowwiowaiownioawawiaoiwnodawnidawniadiwndawniodawaniwaiawiwiwaionwaniowaionwdaniwdaniowdaniwniodawniodawniodanioawd", i);
+		printf("%d Hello, world", i);
 	}
 	return 0;
 }
