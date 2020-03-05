@@ -19,20 +19,3 @@ int main(int argc, char** argv) {
 	printf("the distance is %f\n", distance(x,y));
 	return (0);
 }
-
-	//int times = atoi(argv[1]);
-	//int i;
-	/*
-	for(i=1; i<=times; i++){
-		if(i%5==0 && i%3==0){
-			printf("FizzBuzz\n");
-		}else if(i%3==0){
-			printf("Fizz\n");
-		}else if(i%5==0){
-			printf("Buzz\n");
-		} else {
-			printf("%d\n", i);
-		}
-	}*/
-	//print("%d\n",num);
-	//printf("the sum is %d\n", add_two_int(num1,num2));
